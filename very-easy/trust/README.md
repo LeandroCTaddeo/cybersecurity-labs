@@ -4,7 +4,6 @@
 
 * **Dificultad:** Very Easy
 * **Técnicas:** Web enumeration (gobuster), SSH brute-forcing, escalada de privilegios vía sudo (vim)
-* **Tiempo:** ~15 minutos
 * **Fecha:** 2026-04-16
 
 ---
